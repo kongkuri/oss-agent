@@ -1,4 +1,4 @@
-작성 : Claude Code / 확인: (이름)
+작성 : Claude Code / 확인: 강나경
 
 # week09/tools.py 함수 정리💚
 
